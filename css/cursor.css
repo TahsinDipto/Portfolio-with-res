@@ -1,0 +1,13 @@
+.trail {
+    position: fixed;
+    width: 20px;
+    height: 5px;
+    background: linear-gradient(90deg,#00ff62 0%, #00ffc8 40%, #00ffff 80%);;
+    border-radius: 50px;
+    pointer-events: none;
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+    filter: blur(2px);
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+    z-index: 999;
+}
