@@ -354,7 +354,8 @@
         width: 42%;
     }
     .two-pic {
-        margin-top: 28px;
+        width: 100%;
+        margin: 48px 0;
     }
     .two-right {
         width: 100%;
@@ -439,7 +440,7 @@
     }
     .pic {
         width: 100%;
-        margin: 0px 48px;
+        margin: 48px 0;
     }
     /* section-one-end */
     /* section-three-start */
